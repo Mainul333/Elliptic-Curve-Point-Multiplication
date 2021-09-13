@@ -1,5 +1,5 @@
 # Elliptic curve point multiplication
- Elliptic curve point/scalar multiplication on Edwards25519 curve over 256-bit prime fields
+ Elliptic curve point/scalar multiplication on Edwards25519 curve
  ## Contributers
  * Md. Mainul Islam (https://scholar.google.com/citations?user=44NDpMcAAAAJ&hl=en)
  * Md. Selim Hossain (https://scholar.google.com/citations?user=JPu7BcYAAAAJ&hl=en)
